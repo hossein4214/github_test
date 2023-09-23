@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // this is first Commiit from ui
+        // this is first  commit from Niazi Branch
+        // this is second commit from Niazi Branch
     }
 }
