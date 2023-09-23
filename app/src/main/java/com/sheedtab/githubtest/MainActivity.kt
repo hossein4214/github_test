@@ -7,6 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        // this is my Niazi Branch
+        // this is first  commit from Niazi Branch
+        // this is second commit from Niazi Branch
     }
 }
