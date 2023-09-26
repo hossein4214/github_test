@@ -8,10 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // this is first Commiit from ui
-        // this is first  commit from Niazi Branch
-        // this is second commit from Niazi Branch
-        // This is third commit from Main
-        // Another Commit from Niazi
+        //Commit From Hossein
     }
 }
