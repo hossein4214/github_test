@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/bot_nav_avs_user"
+        android:title="فرگمنت 1"
+        android:menuCategory="secondary"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/bot_nav_avs_notif"
+        android:title="فرگمنت 2"
+        android:menuCategory="secondary"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/bot_nav_avs_user"
+        android:title="فرگمنت 3"
+        android:menuCategory="secondary"
+        app:showAsAction="always|withText"
+        />
+</menu>
